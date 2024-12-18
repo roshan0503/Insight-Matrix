@@ -58,7 +58,7 @@ Ensure you have Python 3.x and pip installed on your machine.
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/insight-matrix.git
+   git clone https://github.com/roshan0503/Insight-Matrix.git
    cd insight-matrix```
 
 2. **Install dependencies:**
