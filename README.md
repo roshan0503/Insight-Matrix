@@ -71,7 +71,7 @@ Ensure you have Python 3.x and pip installed on your machine.
 3. **Run the application**
 
    ```bash
-   python app.py```
+   python app.py
 
 4.**Visit http://127.0.0.1:5000 in your browser to use the application.**
 
