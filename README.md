@@ -59,14 +59,14 @@ Ensure you have Python 3.x and pip installed on your machine.
 
    ```bash
    git clone https://github.com/roshan0503/Insight-Matrix.git
-   cd insight-matrix```
+   cd insight-matrix
 
 2. **Install dependencies:**
 
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows use `venv\Scripts\activate
-   pip install -r requirements.txt```
+   pip install -r requirements.txt
 
 3. **Run the application**
 
